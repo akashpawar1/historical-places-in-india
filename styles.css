@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+  }
+  body{
+    disply:flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+  
+  /* container */
+  .place-container{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+  }
+  
+  .place-img {
+    margin:auto;
+  }
